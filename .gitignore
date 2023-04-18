@@ -1,0 +1,6 @@
+/*.html
+/*.xml
+.wdm
+*.pyc
+robotframework_autonexuslibrary.egg-info
+build/lib

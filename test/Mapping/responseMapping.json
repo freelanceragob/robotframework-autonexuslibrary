@@ -1,0 +1,6 @@
+{
+    "token": "$.token",
+    "expires": "$.expires",
+    "status": "$.status",
+    "result": "$.result"
+}
